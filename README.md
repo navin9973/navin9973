@@ -1,4 +1,4 @@
-![logo](https://github.com/navin9973/navin9973/blob/main/background.jpeg)
+![logo](https://github.com/navin9973/navin9973/blob/main/Gaming%20YouTube%20Thumbnail%20in%20Black%20Grey%20Purple%20Grunge%20Style.png)
 
 <h1 align="center">Hi 👋, I'm Navin kumar</h1>
 <h3 align="center">A passionate full stack developer </h3>
